@@ -1,0 +1,9 @@
+*.o
+*.so
+.stack-work/*
+*.log
+.DS_Store
+.DS_Store?
+._*
+*.swp
+*.swo
